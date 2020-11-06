@@ -11,16 +11,16 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <img src="img/office18.jpg" style="height:300px;" style="width: 100px;"class="img-fluid rounded" />
+                <img src="office18.jpg" style="height:300px;" style="width: 100px;"class="img-fluid rounded" />
             </div>
             <div class="col-sm-3">
-                <img src="img/work9.jpg" style="height:100px;" style="width: 50px;"class="img-fluid img-thumbnail" />
-                <img src="img/work4.jpg" style="height:100px;" style="width: 50px;"class="img-fluid img-thumbnail" />
-                <img src="img/work5.jpg" style="height:100px;" style="width: 50px;"class="img-fluid img-thumbnail" />
+                <img src="work9.jpg" style="height:100px;" style="width: 50px;"class="img-fluid img-thumbnail" />
+                <img src="work4.jpg" style="height:100px;" style="width: 50px;"class="img-fluid img-thumbnail" />
+                <img src="work5.jpg" style="height:100px;" style="width: 50px;"class="img-fluid img-thumbnail" />
             </div>
             <div class="col-sm-3">
-                <img src="img/office11.jpg" style="height: 200px;" style="width: 50px;" class="img-fluid" />
-                <img src="img/office18.jpg" style="height: 100px;" style="width: 50px;" class="img-fluid img-thumbnail" />
+                <img src="office11.jpg" style="height: 200px;" style="width: 50px;" class="img-fluid" />
+                <img src="office18.jpg" style="height: 100px;" style="width: 50px;" class="img-fluid img-thumbnail" />
             </div>
         </div> <!-- Close Row -->
     </div> <!-- Close container -->
